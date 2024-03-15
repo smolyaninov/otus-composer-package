@@ -1,0 +1,16 @@
+{
+    "name": "smolyaninov/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Smolyaninov\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Smolyaninov",
+            "email": "smolyaninovda@gmail.com"
+        }
+    ],
+    "require": {}
+}
